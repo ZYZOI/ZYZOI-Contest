@@ -1,2 +1,2 @@
 # ZYZOI-Contest
-ZYZ Beginer / Regular / Grand Contest
+ZYZ Beginner / Regular / Grand Contest
